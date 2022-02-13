@@ -13,9 +13,9 @@ Script for training the network (in Python 3.8+) is also included [in this repo]
 -----------------
 This was a group project created by:
   
-* Dominik Marszałek - Kotlin developer
-* Michał Milka - Visual / UI designer
-* Łukasz Piątkowski - AI developer
-* Bartosz Polek - Kotlin developer
+* Dominik Marszałek [@minikowsky](https://github.com/minikowsky) - Kotlin developer
+* Michał Milka [@MichalMilka](https://github.com/MichalMilka) - Visual / UI designer
+* Łukasz Piątkowski [@LukaszPiatkowski27](https://github.com/LukaszPiatkowski27) - AI developer
+* Bartosz Polek [@BartoszPolekPolSl](https://github.com/BartoszPolekPolSl) - Kotlin developer
 
 and it was implemented for the purposes of computer science studies at the Silesian University of Technology 2022
